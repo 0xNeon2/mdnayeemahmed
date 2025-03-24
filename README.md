@@ -2,7 +2,8 @@
 ✨ Welcome to my personal portfolio website repository! This is where I showcase my skills, projects, and professional journey.
 
 [![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://mdnayeemahmed.vercel.app/index.html)
-Live Demo Link: https://mdnayeemahmed.vercel.app/index.html
+
+## Live Demo Link: https://mdnayeemahmed.vercel.app/index.html
 
 ## 🛠 Technologies Used
 -  **HTML, CSS, JavaScript**
